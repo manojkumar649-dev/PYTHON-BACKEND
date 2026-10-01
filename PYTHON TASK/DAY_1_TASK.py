@@ -9,7 +9,7 @@ else:
 
 #TASK 2
 
-'''
+
 balance =1000
 
 print('1) check balance')
@@ -36,7 +36,7 @@ else :
 
 
 
-
+'''
 
 
 
