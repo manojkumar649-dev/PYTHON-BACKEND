@@ -12,7 +12,9 @@ for i in result:
 print("Total permutations:", len(result))
 
 
-TASK 2
+
+
+#TASK 2
 
 from itertools import combinations
 
@@ -24,7 +26,7 @@ for i in result:
     print(i)
 '''
 
-TASK 4
+#TASK 4
 
 name = 'programming'
 

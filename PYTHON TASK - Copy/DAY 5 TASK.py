@@ -8,6 +8,7 @@ for i in sum_of_even:
         print('odd number',i)
 
 
+
 #TASK 2
 
 divisible=[10,13,14,17,18,22]
